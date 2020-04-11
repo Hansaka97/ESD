@@ -11,6 +11,3 @@ pizza
 
 
 Thank you!
-
-
-final copy
